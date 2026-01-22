@@ -1,17 +1,16 @@
-<h3>Hello! i'm ross</h3>
-<br>
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roossqg&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=roossqg&theme=tokyonight)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?roossqg=Ross&theme=tokyonight&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=roossqg&theme=tokyonight) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=roossqg&theme=tokyonight)
-
+## Hello! i'm ross
 <div align="center">
 </div>
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=roossqg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=roossqg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roossqg&radius=7&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false" height="200" alt="activity-graph graph"  />
+</div>
+
+###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
