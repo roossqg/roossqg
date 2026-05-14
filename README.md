@@ -6,16 +6,15 @@
 Building intelligent systems using data, mathematics, and machine learning.
 </p>
 
-<p align="center">
-<a href="https://linkedin.com/in/yourprofile">LinkedIn</a> •
-<a href="https://github.com/yourusername">GitHub</a> •
-<a href="https://yourportfolio.com">Portfolio</a>
-</p>
+
 
 ---
 
 <div align="center">
 </div>
+
+
+
 
 ###
 
@@ -49,30 +48,15 @@ My interests include:
 - Statistical modeling
 - Machine learning systems
 - AI for robotics
-- probabilistic models
-- data-driven decision systems
+- Probabilistic models
 
-I enjoy working at the intersection of:
-
-📊 Statistics and Maths
-🤖 Robotics  
-🧠 Artificial Intelligence  
-
----
 
 # 🚀 Current Focus
 
-- ML foundation models
-- Statistic experiments
-- Statistical and Maths learning theory
-- Apis and databank integrations
+- Pca and Unsupervised Models
+- Statistic and Maths
+- Deployment
 - AI systems and integrations
-- Data Structures and Computer Science
-
-## Industries :
-- Agro
-- Health
----
 
 # 🛠 Tech Stack
 
@@ -87,36 +71,20 @@ I enjoy working at the intersection of:
 
 - Python (Pandas, NumPy)
 - Scikit-learn
-- PyTorch
-- TensorFlow
 - Matplotlib and Seaborn
 - Scipy
+- Fastapi
+- Sql
 
 ## Statistics
 
 - Exploratory Analyst
 - Statistic Tests and Experiments
 - Probability and Distribuitions
+- Sampling
 
 ## Robotics & AI
 
-- Ai agents 
+- Ai agents and api integration
 - Ollama Models training and customize
-- Ai apis and Libs
 
----
-
-# 📊 Data Science Workflow
-
-```text
-Data Collection
-      ↓
-Data Cleaning
-      ↓
-Exploratory Data Analysis
-      ↓
-Statistical Modeling
-      ↓
-ML models,Apresentation
-      ↓
-Deployment,Solution
