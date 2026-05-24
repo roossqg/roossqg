@@ -9,33 +9,41 @@ Building intelligent systems using data, mathematics, and machine learning.
 
 
 ---
-
-<div align="center">
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
 
+<div align="center">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=700&size=30&pause=1000&color=B08FF7&background=4B4B4B00&vCenter=true&width=435&lines=Data-Science/Stats/AI" alt="Typing SVG" /></a>
+
+
+
+<div align="center">
+  <img src="https://github.com/roossqg/roossqg/blob/main/e0266f3e9d8acce7ffb911e81ccc3153.gif" size = 400/>
+</div>
+
+
+</div>
 
 
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
-</div>
+
 
 ###
 
 <br clear="both">
 
 <div align="right">
-  <img src="https://streak-stats.demolab.com?user=roossqg&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=roossqg&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="300"  alt="streak graph" /> 
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=roossqg&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
-</div>
 
 ###
 
@@ -88,3 +96,6 @@ My interests include:
 - Ai agents and api integration
 - Ollama Models training and customize
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+</div>
