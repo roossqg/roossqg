@@ -15,7 +15,7 @@ Building intelligent systems using data, mathematics, and machine learning.
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=700&size=30&pause=1000&color=B08FF7&background=4B4B4B00&vCenter=true&width=435&lines=Data-Science/Stats/AI" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=700&size=30&pause=1000&color=white&background=4B4B4B00&vCenter=true&width=435&lines=Machine-Learning" alt="Typing SVG" /></a>
 
 
 
