@@ -4,8 +4,11 @@
 
 <p align="center">
 Building intelligent systems using data, mathematics, and machine learning.
-</p>
 
+  $$
+ E[x] = \int_{-\infty }^{\infty } x\frac{1}{\sqrt{2\tau \alpha^{2}}}exp\left (-\frac{(x-\mu ^{2})}{2\alpha ^{2}}\right )\mathrm{d} x
+  $$
+</p>
 
 
 ---
