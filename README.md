@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Augusto</h1>
-<h3 align="center">Data Scientist | Statistician | AI & Robotics Enthusiast</h3>
+<h3 align="center">Data Science | Analytics | Data Engineering</h3>
 
 <p align="center">
 Building intelligent systems using data, mathematics, and machine learning.
@@ -63,21 +63,21 @@ Building intelligent systems using data, mathematics, and machine learning.
 
 # 🧠 About Me
 
-I am a **Data Scientist and Statistician** focused on building intelligent systems through **Machine Learning, Artificial Intelligence, and Robotics**.
+I am a **Data Scientist-Analytics** focused on building intelligent systems through **Machine Learning,Data,Artificial Intelligence, and Robotics**.
 
 My interests include:
 
 - Statistical modeling
 - Machine learning systems
-- AI for robotics
-- Probabilistic models
+- Data Engineering
+- AI systems
+- 
 
 
 # 🚀 Current Focus
 
-- Pca and Unsupervised Models
-- Statistic and Maths
-- Deployment
+- Statistic and Maths depth
+- Data engineering and data applications
 - AI systems and integrations
 
 # 🛠 Tech Stack
@@ -105,10 +105,6 @@ My interests include:
 - Probability and Distribuitions
 - Sampling
 
-## Robotics & AI
-
-- Ai agents and api integration
-- Ollama Models training and customize
 
 <div align='center'>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
