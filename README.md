@@ -18,7 +18,7 @@ Building intelligent systems using data, mathematics, and machine learning.
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=700&size=30&pause=1000&color=white&background=4B4B4B00&vCenter=true&width=435&lines=Machine-Learning" alt="Typing SVG" /></a>
+
 
 
 
@@ -86,7 +86,6 @@ My interests include:
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
 </p>
 
 ## Data Science
