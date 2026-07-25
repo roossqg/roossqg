@@ -3,18 +3,9 @@
 <h3 align="center">Data Science | Analytics | Data Engineering</h3>
 
 <p align="center">
-Building intelligent systems using data, mathematics, and machine learning.
-
-  $$
- E[x] = \int_{-\infty }^{\infty } x\frac{1}{\sqrt{2\pi \sigma^{2}}}\exp\left (-\frac{(x-\mu) ^{2}}{2 \sigma ^{2}}\right )\mathrm{d} x
-  $$
-</p>
-
+Building intelligent systems using Data,Software Engineering and Artificial Intelligence.
 
 ---
-<div align='center'>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
-</div>
 
 <div align="center">
 
@@ -56,29 +47,29 @@ Building intelligent systems using data, mathematics, and machine learning.
 </p>
 
 <div align='left'>
-###
 
-
-###
 
 # 🧠 About Me
 
-I am a **Data Scientist-Analytics** focused on building intelligent systems through **Machine Learning,Data,Artificial Intelligence, and Robotics**.
+<div align='center'>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+</div>
+
+I am a **Data Scientist-Engineer student** focused on building intelligent systems through **Machine Learning,Artificial Intelligence and Data**.
 
 My interests include:
 
 - Statistical modeling
 - Machine learning systems
-- Data Engineering
+- Data Science
 - AI systems
-- 
-
 
 # 🚀 Current Focus
 
-- Statistic and Maths depth
-- Data engineering and data applications
-- AI systems and integrations
+- Statistics and Mathematics
+- Data applications and architeture
+- Software engineering
+- AI systems 
 
 # 🛠 Tech Stack
 
@@ -88,12 +79,14 @@ My interests include:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 </p>
 
+- Fastapi
+- Sql
+
 ## Data Science
 
-- Python (Pandas, NumPy)
+- Python 
 - Scikit-learn
-- Matplotlib and Seaborn
-- Scipy
+- Data visualization
 - Fastapi
 - Sql
 
@@ -102,7 +95,6 @@ My interests include:
 - Exploratory Analyst
 - Statistic Tests and Experiments
 - Probability and Distribuitions
-- Sampling
 
 
 <div align='center'>
