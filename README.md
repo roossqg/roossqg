@@ -33,18 +33,7 @@ Building intelligent systems using Data,Software Engineering and Artificial Inte
 <div>
 <table>
 <tr>
-<td valign="top">
 
-  <img src="https://streak-stats.demolab.com?user=roossqg&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" width=500  alt="streak graph" /> 
-</td>
-
-<td valign="top">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roossqg&radius=16&theme=tokyo-night&area=true&order=5" width=500 alt="activity-graph graph"  />
-</td>
-</tr>
-</table>
-</div>
-</p>
 
 <div align='left'>
 
