@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#040404">
+  <meta name="description" content="Naive Matrix — independent software and AI studio. Applied AI, machine learning and data science.">
+  <title>Naive Matrix | AI, Machine Learning & Data Science</title>
+  <style>
+    :root{--night:#040404;--sage:#bdc0af;--charcoal:#565552;--teal:#768f8a;--slate:#787c84;--line:#283331;--panel:#0b0d0d}
+    *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--night);color:var(--sage);font-family:Inter,"Segoe UI",Arial,sans-serif;line-height:1.6}
+    a{color:var(--teal);text-decoration:none}a:hover{color:var(--sage)}.wrap{width:min(1100px,92vw);margin:auto}
+    header{border-bottom:1px solid var(--line);padding:22px 0}.nav{display:flex;align-items:center;justify-content:space-between;gap:20px}.brand{font-weight:800;letter-spacing:.04em;font-size:1.2rem}.brand span{color:var(--teal)}.navlinks{display:flex;gap:22px;flex-wrap:wrap;font-size:.92rem}
+    .hero{padding:100px 0 84px;display:grid;grid-template-columns:1.4fr .6fr;gap:48px;align-items:center}.eyebrow{font: .8rem/1.4 "Cascadia Code",Consolas,monospace;color:var(--teal);letter-spacing:.15em;text-transform:uppercase}h1{font-size:clamp(2.5rem,6vw,5rem);line-height:1.02;letter-spacing:-.045em;margin:18px 0}h2{font-size:clamp(1.6rem,3vw,2.5rem);margin:0 0 16px}.muted{color:var(--slate)}.lead{font-size:1.12rem;max-width:680px}.buttons{display:flex;gap:12px;margin-top:26px;flex-wrap:wrap}.button{display:inline-block;border:1px solid var(--teal);padding:11px 16px;border-radius:4px;color:var(--sage)}.button.primary{background:var(--teal);color:#040404;font-weight:700}.mark{width:min(260px,100%);aspect-ratio:1;object-fit:cover;border:1px solid var(--line);border-radius:8px;justify-self:center}
+    section{padding:66px 0;border-top:1px solid var(--line)}.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}.card{background:var(--panel);border:1px solid var(--line);padding:22px;border-radius:6px}.card h3{margin-top:0}.tag{font:.75rem "Cascadia Code",Consolas,monospace;color:var(--teal)}.project{border-top:1px solid var(--line);padding:20px 0;display:grid;grid-template-columns:1fr auto;gap:24px}.project h3{margin:0}.project p{margin:7px 0;color:var(--slate)}.contact{background:var(--panel);padding:28px;border:1px solid var(--line);border-radius:6px}footer{padding:28px 0;color:var(--slate);font-size:.85rem;border-top:1px solid var(--line)}
+    @media(max-width:720px){.hero{grid-template-columns:1fr;padding:66px 0}.mark{grid-row:1;width:150px}.grid{grid-template-columns:1fr}.nav{align-items:flex-start;flex-direction:column}.project{grid-template-columns:1fr}.navlinks{gap:14px}}
+  </style>
+</head>
+<body>
+<header><div class="wrap nav"><a class="brand" href="#top">NAIVE <span>MATRIX</span></a><nav class="navlinks"><a href="#services">Services</a><a href="#work">Selected work</a><a href="#about">Approach</a><a href="#contact">Contact</a></nav></div></header>
+<main id="top" class="wrap">
+  <section class="hero" style="border:0">
+    <div><div class="eyebrow">Independent software & AI studio</div><h1>Intelligent systems.<br><span style="color:var(--teal)">Practical outcomes.</span></h1><p class="lead">I build data-driven tools, machine-learning workflows and AI automations that help people understand information and work more effectively.</p><p class="muted">Replace this paragraph with your real offer, target customer and service area.</p><div class="buttons"><a class="button primary" href="#work">Explore projects</a><a class="button" href="#contact">Discuss a project</a></div></div>
+    <img class="mark" src="../assets/avatar_owl.png" alt="Naive Matrix owl emblem">
+  </section>
+  <section id="services"><div class="eyebrow">01 / Capabilities</div><h2>What I build</h2><div class="grid">
+    <article class="card"><div class="tag">DATA SCIENCE</div><h3>Analysis & forecasting</h3><p class="muted">Exploratory analysis, time-series forecasting, metrics and decision-support tools.</p></article>
+    <article class="card"><div class="tag">MACHINE LEARNING</div><h3>Predictive systems</h3><p class="muted">Baseline models, model evaluation, reproducible pipelines and practical deployment.</p></article>
+    <article class="card"><div class="tag">APPLIED AI</div><h3>Automation & assistants</h3><p class="muted">Document workflows, local or hosted AI assistants, integrations and internal tools.</p></article>
+  </div></section>
+  <section id="work"><div class="eyebrow">02 / Case studies</div><h2>Selected work</h2>
+    <article class="project"><div><h3>Sales forecasting prototype</h3><p>Compare simple baselines with time-series models, evaluate holdout error, and explain how forecast uncertainty informs inventory planning.</p><span class="tag">PYTHON · PANDAS · TIME SERIES</span></div><a href="#contact">View case study ↗</a></article>
+    <article class="project"><div><h3>Automated sales monitor</h3><p>Detect unusual changes in sample sales data and produce a concise report with actionable alerts.</p><span class="tag">DATA PIPELINE · ANOMALY DETECTION</span></div><a href="#contact">View case study ↗</a></article>
+    <article class="project"><div><h3>Document Q&A assistant</h3><p>Answer questions over a document collection with source references, then evaluate accuracy, latency and failure modes.</p><span class="tag">RAG · EVALUATION · UX</span></div><a href="#contact">View case study ↗</a></article>
+    <p class="muted">These are example project ideas. Replace them with completed work and label prototypes honestly.</p>
+  </section>
+  <section id="about"><div class="eyebrow">03 / Approach</div><h2>Small, testable, useful</h2><div class="grid"><article class="card"><h3>01 — Understand</h3><p class="muted">Define the user, decision, constraints and success metric before choosing a model.</p></article><article class="card"><h3>02 — Prototype</h3><p class="muted">Start with the simplest useful baseline and keep the workflow reproducible.</p></article><article class="card"><h3>03 — Validate</h3><p class="muted">Measure quality, document limitations and make handoff and maintenance clear.</p></article></div></section>
+  <section id="contact"><div class="eyebrow">04 / Contact</div><div class="contact"><h2>Have a process worth improving?</h2><p class="muted">Tell me about the workflow, data or decision you want to improve.</p><p><a class="button primary" href="mailto:your.email@example.com">your.email@example.com</a></p><p class="muted">Replace this placeholder with your real email and links. Do not publish private client data.</p></div></section>
+</main>
+<footer><div class="wrap">© Naive Matrix · AI · Machine Learning · Data Science</div></footer>
+</body></html>
