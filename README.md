@@ -17,7 +17,7 @@
 
 ## 🌙 About Me
 
-### Portifolio Website:
+### Portifolio Website (It is not ready.):
 https://roossqg.github.io/roossqg/
 
 I'm a **Data Science & AI student** interested in building intelligent systems through:
