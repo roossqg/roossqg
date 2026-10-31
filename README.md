@@ -6,98 +6,75 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/roossqg/roossqg/blob/main/e0266f3e9d8acce7ffb911e81ccc3153.gif" width="400"/>
-</p>
-
-<p align="center">
-  <i>quietly building things with data, mathematics & code ☕</i>
+  <i>quietly building things with data, ai and software engineering ☕</i>
 </p>
 
 ---
 
 ## 🌙 About Me
 
-### Portifolio Website (It is not ready.):
+### Portifolio Website:
 https://roossqg.github.io/roossqg/
 
-I'm a **Data Science & AI student** interested in building intelligent systems through:
+I'm a **Data Scientist & AI/ML Engineer** interested in building intelligent systems through:
 
 * 📊 Data Science & Statistical Modeling
-* 🤖 Machine Learning & AI
-* 🧮 Mathematics & Statistics
+* 🤖 Machine Learning & AI Systems
 * ⚙️ Software Engineering
-* 🧠 Intelligent Systems
 
-I enjoy understanding **how things work**, turning ideas into projects, and combining mathematical thinking with software.
+I enjoy understanding how things work ,turning ideas into systems.
 
 ---
 
 ## 🎧 Current Focus
 
-```text
-Mathematics & Statistics
-        ↓
-   Data Science
-        ↓
-Machine Learning
-        ↓
-   AI Systems
-        ↓
-Software Engineering
-```
-
 Currently focusing on:
 
-* Statistical modeling & experimentation
-* Machine Learning
-* Data analysis & visualization
-* AI / LLM systems
-* Data & software architecture
+* Data Science: Statistical Validation-Experiments and Investigation Process
+* Machine Learnining Evaluation and Production Cicle 
+* Data Analysis & Visualization: NLP and Time Series
+* Chatbots | Ai Agents 
+* Data Engineering & Software Architecture
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack Core
 
-### 🐍 Languages & Core
-
+### 🐍 Languages: 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="45" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ### 📊 Data Science
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="45" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="45" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="45" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ### 🤖 AI & Machine Learning
 
 <p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 
-**Machine Learning · Statistical Modeling · LLM Applications · AI Agents**
-
-### ⚙️ Engineering
-
-**FastAPI · SQL · Git · Docker · APIs · Data Pipelines**
-
----
-
-## 📚 Interests
-
-<p align="center">
-  Data Science &nbsp;·&nbsp;
-  Machine Learning &nbsp;·&nbsp;
-  Artificial Intelligence &nbsp;·&nbsp;
-  Statistics &nbsp;·&nbsp;
-  Mathematics
-</p>
-
-<p align="center">
-  <i>learning slowly, building consistently.</i>
+## Scientific Computing and Optimization
+<p>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ spaCy-09A3D5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PuLP-2E8B57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Statsmodels-4051B5?style=for-the-badge"/>
 </p>
 
 ---
